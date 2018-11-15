@@ -1,0 +1,37 @@
+{
+  "name": "discord-mubot",
+  "version": "4.0.1",
+  "description": "PMH Studio / Proj- μBot | Smart & Cute Discord Bot_Mu~☆ ",
+  "main": "CORE.js",
+  "engines": {
+    "node": "8.12.0"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "^0.0.6",
+    "random-hex-color": "^1.0.1",
+    "request": "^2.88.0",
+    "text-to-mp3": "^1.0.4",
+    "uws": "^99.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMHStudio/DiscordMuBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "PMH Studio / PMH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMHStudio/DiscordMuBot/issues"
+  },
+  "homepage": "https://github.com/PMHStudio/DiscordMuBot#readme"
+}
